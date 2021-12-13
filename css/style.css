@@ -1,0 +1,13 @@
+html{
+    width: 1000px;
+    margin: 0 auto;
+}
+.m-auto {
+    margin: 0 auto;
+}
+.coffee{
+    text-align: center;
+}
+.width-150{
+    width: 500px;
+}
